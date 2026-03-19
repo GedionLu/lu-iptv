@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/GedionLu/lu-iptv/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.248:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-19 14:34:35
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-4" tvg-logo="http://10.1.0.248:5180/logo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
